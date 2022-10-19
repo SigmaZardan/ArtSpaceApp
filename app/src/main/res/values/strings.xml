@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+
+
+    <string name= "lovers">Lovers</string>
+    <string name="cats">Cats</string>
+    <string name="smiling_lovers">Smiling Lovers</string>
+    <string name ="grouped_photos">Lovers Diary</string>
+    <string name="college_time">College Time</string>
+    <string name = "minion_purple">Purple Minion</string>
+    <string name="minion">Minion</string>
+
+
+    <string name="desc1">Bibek and Sanzeena(December 15, 2021)</string>
+    <string name="desc2">Cat lovers(2022)</string>
+    <string name = "desc3">Bibek and Sanzeena(2022)</string>
+    <string name ="desc4">Memories Grouped(2022)</string>
+    <string name ="desc5">Bibek and his Wiffey(2022)</string>
+    <string name="desc6">Banana and War(2022)</string>
+    <string name="desc7">Chaak(2022)</string>
+
+
+</resources>
